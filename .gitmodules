@@ -1,0 +1,3 @@
+[submodule "nutricraft-app"]
+    path = nutricraft-app
+    url = https://github.com/fchrgrib/nutricraft-app
