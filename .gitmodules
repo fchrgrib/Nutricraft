@@ -4,4 +4,4 @@
 
 [submodule "nutricraft-soap"]
     path = nutricraft-soap
-    url = https://github.com/fchrgrib/nutricraft-app
+    url = https://github.com/fchrgrib/nutricraft-soap
