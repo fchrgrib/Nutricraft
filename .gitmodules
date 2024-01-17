@@ -5,3 +5,11 @@
 [submodule "nutricraft-soap"]
     path = nutricraft-soap
     url = https://github.com/fchrgrib/nutricraft-soap
+
+[submodule "nutricraft-config"]
+    path = nutricraft-config
+    url = https://github.com/fchrgrib/nutricraft-config
+
+[submodule "nutricraft-express"]
+    path = nutricraft-express
+    url = https://github.com/fchrgrib/nutricraft-express
